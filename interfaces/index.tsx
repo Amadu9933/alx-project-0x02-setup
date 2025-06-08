@@ -1,4 +1,4 @@
-// Export shared interfaces here
+// Export shared interfaces 
 export interface User {
   id: number;
   name: string;
